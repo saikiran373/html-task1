@@ -1,0 +1,39 @@
+* {
+  background-color: #fffacd;
+}
+.container {
+  padding-left: 150px;
+}
+.head {
+  color: black;
+  font-size: 35px;
+  text-align: center;
+  margin-right: 250px;
+}
+#image img {
+  margin-left: auto;
+  margin-right: 670px;
+  display: block;
+  border-radius: 100%;
+}
+
+hr {
+  color: skyblue;
+  width: 900px;
+  margin-right: 600px;
+}
+
+h3{
+
+ color: orangered;
+ font-size: 20px"
+}
+
+h2{
+  color: orangered; 
+  font-size: 20px"
+}
+h1{
+  color: orangered;
+   font-size: 20px
+}
